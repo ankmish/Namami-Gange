@@ -15,4 +15,7 @@ Zulip HelpDesk for Ardh Kumbh
 
 * First register on Zulip chat and create a Bot in your profile.
 * Download ```zuliprc``` file for your bot.
-* Run 
+* Run ```ZulipBot.py``` file from your terminal (if using Linux).
+* Now from your chatBot on browser send command as specified in ```help.py``` (select stream message not private).
+* In announcement field, write ```welcome```.
+* Now enjoy using Zulip ChatBot.
