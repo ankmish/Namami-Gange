@@ -1,3 +1,4 @@
+
 # Namami-Gange
 Zulip HelpDesk for Ardh Kumbh
 
@@ -19,3 +20,4 @@ Zulip HelpDesk for Ardh Kumbh
 * Now from your chatBot on browser send command as specified in ```help.py``` (select stream message not private).
 * In announcement field, write ```welcome```.
 * Now enjoy using Zulip ChatBot.
+* See screenshots to see how to enter your commands in zulip bot.
