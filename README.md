@@ -1,3 +1,9 @@
+<h1 align="center">NinjasBot</h1>
+<p align="center">
+  <a href="https://github.com/cef1998/WASP">
+    <img  title="Ninjas-Bot" src="https://user-images.githubusercontent.com/33161970/52293147-33128700-299c-11e9-8085-026ae437f56a.png" width="400" height="450">
+  </a>
+</p>
 
 # Namami-Gange
 Zulip HelpDesk for Ardh Kumbh
